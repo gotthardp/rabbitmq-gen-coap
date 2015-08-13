@@ -1,0 +1,5 @@
+build
+dist
+ebin
+rabbitmq-gen-coap-git
+hash.mk
