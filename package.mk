@@ -2,7 +2,7 @@ RELEASABLE=true
 APP_NAME:=gen_coap
 
 UPSTREAM_GIT:=https://github.com/gotthardp/gen_coap.git
-UPSTREAM_REVISION:=e72272708061c9bb8509cd49d90c2c4c7fcce0ef
+UPSTREAM_REVISION:=a0fc3cf6b2dc1fda2ca700b79441a852988a5e29
 RETAIN_ORIGINAL_VERSION:=true
 
 ORIGINAL_APP_FILE:=$(CLONE_DIR)/src/gen_coap.app.src
