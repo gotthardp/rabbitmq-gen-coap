@@ -3,6 +3,8 @@
 RabbitMQ wrapper for the
 [Generic Erlang CoAP Client/Server](https://github.com/gotthardp/gen_coap).
 
+This is a legacy code. It is not required for RabbitMQ v3.6.x and beyond.
+
 ### Installation from source
 
     $ git clone https://github.com/rabbitmq/rabbitmq-public-umbrella.git
